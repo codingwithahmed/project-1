@@ -1,0 +1,19 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "Back end",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingwithahmed/project-1.git"
+  },
+  "author": "Ahmed Farooq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingwithahmed/project-1/issues"
+  },
+  "homepage": "https://github.com/codingwithahmed/project-1#readme"
+}
